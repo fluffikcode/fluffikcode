@@ -1,110 +1,98 @@
-
 <div align="center">
 
-<!-- TOP TELEMETRY BAR -->
-<sub><code>SYS.ID: 0x56X</code> &nbsp;//&nbsp; <code>LOC: ENCRYPTED</code> &nbsp;//&nbsp; <code>STATUS:</code> 🟢 <code>ONLINE</code></sub>
-
-<!-- 3D MONOCHROME RENDER: FLUFFIKCODE -->
+<!-- 3D MONOCHROME RENDER: FLUFFIKCODE (NATIVE GITHUB BLOCK) -->
 <pre>
 ███████╗██╗     ██╗   ██╗███████╗███████╗██╗██╗  ██╗ ██████╗ ██████╗ ██████╗ ███████╗
 ██╔════╝██║     ██║   ██║██╔════╝██╔════╝██║██║ ██╔╝██╔════╝██╔═══██╗██╔══██╗██╔════╝
-█████╗  ██║     ██║   ██║█████╗  █████╗  ██║█████╔╝ ██║     ██║   ██║██║  ██║█████╗  
-██╔══╝  ██║     ██║   ██║██╔══╝  ██╔══╝  ██║██╔═██╗ ██║     ██║   ██║██║  ██║██╔══╝  
+█████╗  ██║     ██║   ██║█████╗  █████╗  ██║█████╔╝ ██║     ██║   ██║██║  ██║█████╗
+██╔══╝  ██║     ██║   ██║██╔══╝  ██╔══╝  ██║██╔═██╗ ██║     ██║   ██║██║  ██║██╔══╝
 ██║     ███████╗╚██████╔╝██║     ██║     ██║██║  ██╗╚██████╗╚██████╔╝██████╔╝███████╗
 ╚═╝     ╚══════╝ ╚═════╝ ╚═╝     ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
 </pre>
 
-<!-- INDUSTRIAL MONOSPACE TYPING SVG -->
+<!-- SUBTITLE / TYPING SVG IN GITHUB MUTED COLOR (#8b949e) -->
 <a href="https://larp.saturnix.fun/index.php?u=fluffik56X">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3500&pause=1500&color=8B949E&center=true&vCenter=true&repeat=true&width=700&height=25&lines=%5BSYSTEM+ARCHITECT+%2F%2F+CYBERSECURITY+ENGINEER%5D;%5BRUST+%26+C%2B%2B+LOW-LEVEL+INFRASTRUCTURE%5D;%5BHIGH-LOAD+RESILIENT+WEB+SYSTEMS%5D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Antic+Didone&weight=400&size=13&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=650&height=25&lines=SYSTEM+ARCHITECT+%2F%2F+CYBERSECURITY+ENGINEER;RUST+%26+C%2B%2B+LOW-LEVEL+DEVELOPMENT;MODERN+HIGH-LOAD+WEB+SYSTEMS" alt="Typing SVG" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" width="100%" />
 </div>
 
 <br/>
 
-<!-- PREMIUM BENTO GRID (INDUSTRIAL UI) -->
+<!-- NATIVE GITHUB BENTO GRID -->
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <sub><b><code>01</code></b> // <code>ARCHITECTURE_SPEC</code></sub>
-      <hr/>
+      <h3><code>01 // SPECIFICATION</code></h3>
       <p align="justify">
-        <sub>Software Engineer specializing in low-level systems, offensive/defensive SecOps, and high-throughput web architectures. Engineering zero-overhead, memory-safe software from kernel space to client interfaces.</sub>
+        Software Engineer specializing in systems programming, offensive/defensive cybersecurity, and resilient web architectures. Designing secure, zero-overhead software from memory management to modern client interfaces.
       </p>
-```yaml
-Role:       Systems & Security Architect
-Focus:      Zero-Overhead / Memory Safety
-Paradigm:   Byzantine Fault Tolerance
-Clearance:  Lead Developer
-```
+      <p>
+        <code>> STATUS:</code> <kbd>Operational</kbd><br/><br/>
+        <code>> VECTOR:</code> <kbd>Rust</kbd> <kbd>C++</kbd> <kbd>SecOps</kbd> <kbd>Web</kbd>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <sub><b><code>02</code></b> // <code>FLAGSHIP_DEPLOYMENT</code></sub>
-      <hr/>
-      <p align="justify">
-        <sub><b>LIST MESSENGER</b> — Ultra-minimalist communication protocol and platform engineered for low latency, cryptographic security, and brutalist aesthetics.</sub>
+      <h3><code>02 // CORE_PROJECT</code></h3>
+      <p>
+        <b>LIST MESSENGER</b> — A modern, minimalist communication platform engineered for speed, security, and clean aesthetics.
       </p>
-```yaml
-Node:       larp.saturnix.fun
-Position:   Lead System Architect
-State:      Production [Active]
-```
-      <div align="right">
+      <p>
+        <code>> ENDPOINT:</code> <a href="https://larp.saturnix.fun">larp.saturnix.fun</a><br/>
+        <code>> POSITION:</code> <kbd>Lead Architect</kbd>
+      </p>
+      <div align="left">
         <a href="https://larp.saturnix.fun">
-          <img src="https://img.shields.io/badge/INITIALIZE_NODE-LIST_SYSTEM-c9d1d9?style=for-the-badge&labelColor=0d1117&logo=serverless&logoColor=c9d1d9" height="28" alt="Launch List" />
+          <img src="https://img.shields.io/badge/INITIALIZE-LIST_SYSTEM-21262d?style=for-the-badge&labelColor=0d1117&logoColor=c9d1d9" alt="Launch List" />
         </a>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub><b><code>03</code></b> // <code>CORE_ARSENAL</code></sub>
-      <hr/>
-      <sub><code>> LOW_LEVEL & SEC_OPS</code></sub><br/>
-      <img src="https://img.shields.io/badge/SYS-RUST-161b22?style=for-the-badge&labelColor=0d1117&logo=rust&logoColor=c9d1d9" height="26" />
-      <img src="https://img.shields.io/badge/SYS-C++-161b22?style=for-the-badge&labelColor=0d1117&logo=cplusplus&logoColor=c9d1d9" height="26" />
-      <img src="https://img.shields.io/badge/SEC-KALI-161b22?style=for-the-badge&labelColor=0d1117&logo=kalilinux&logoColor=c9d1d9" height="26" />
-      <br/><br/>
-      <sub><code>> INFRASTRUCTURE & WEB</code></sub><br/>
-      <img src="https://img.shields.io/badge/OS-LINUX-161b22?style=for-the-badge&labelColor=0d1117&logo=linux&logoColor=c9d1d9" height="26" />
-      <img src="https://img.shields.io/badge/NET-HIGH_LOAD_WEB-161b22?style=for-the-badge&labelColor=0d1117&logo=cloudflare&logoColor=c9d1d9" height="26" />
+      <h3><code>03 // TECH_STACK</code></h3>
+      <p>Primary languages, low-level tools, and security domains.</p>
+      <div align="left">
+        <img src="https://img.shields.io/badge/RUST-21262d?style=for-the-badge&logo=rust&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/C++-21262d?style=for-the-badge&logo=cplusplus&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/SECURITY-21262d?style=for-the-badge&logo=kalilinux&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/WEB_ARCH-21262d?style=for-the-badge&logo=pwa&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/LINUX-21262d?style=for-the-badge&logo=linux&logoColor=c9d1d9" />
+      </div>
     </td>
     <td width="50%" valign="top">
-      <sub><b><code>04</code></b> // <code>ENVIRONMENT & TELEMETRY</code></sub>
-      <hr/>
-      <sub><code>> WORKSTATION_IDE</code></sub><br/>
-      <img src="https://img.shields.io/badge/ENV-ZED_EDITOR-161b22?style=for-the-badge&labelColor=0d1117&logo=zedindustries&logoColor=c9d1d9" height="26" />
-      <img src="https://img.shields.io/badge/ENV-INTELLIJ-161b22?style=for-the-badge&labelColor=0d1117&logo=intellijidea&logoColor=c9d1d9" height="26" />
-      <img src="https://img.shields.io/badge/ENV-VS_CODE-161b22?style=for-the-badge&labelColor=0d1117&logo=visualstudiocode&logoColor=c9d1d9" height="26" />
-      <br/><br/>
-      <sub><code>> EXECUTION_POLICY</code></sub><br/>
-      <kbd>Strict_Mode</kbd> <kbd>No_Bloat</kbd> <kbd>Encrypted</kbd> <kbd>24/7</kbd>
+      <h3><code>04 // WORKSPACE</code></h3>
+      <p>Daily drivers and development environment.</p>
+      <div align="left">
+        <img src="https://img.shields.io/badge/ZED-21262d?style=for-the-badge&logo=zedindustries&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/INTELLIJ_IDEA-21262d?style=for-the-badge&logo=intellijidea&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/VS_CODE-21262d?style=for-the-badge&logo=visualstudiocode&logoColor=c9d1d9" />
+      </div>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- TRANSMISSION CHANNELS (TERMINAL PORTS) -->
+<!-- CONNECTIONS / TWO-TONE GITHUB BADGES -->
 <div align="center">
-  <sub><b><code>05</code></b> // <code>ENCRYPTED_CHANNELS</code></sub>
-  <br/><br/>
+  <h3><code>05 // DIRECT_LINKS</code></h3>
+  <p>Encrypted and direct communication channels.</p>
+
   <a href="https://larp.saturnix.fun/index.php?u=fluffik56X">
-    <img src="https://img.shields.io/badge/PORT_01-LIST_ID_//_fluffik56X-21262d?style=for-the-badge&labelColor=0d1117&logo=matrix&logoColor=ffffff" height="30" alt="List Profile" />
+    <img src="https://img.shields.io/badge/LIST_ID-fluffik56X-21262d?style=for-the-badge&labelColor=0d1117&logoColor=c9d1d9" alt="List Profile" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://t.me/gitwx">
-    <img src="https://img.shields.io/badge/PORT_02-TELEGRAM_//_@gitwx-21262d?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=0d1117" height="30" alt="Telegram" />
+    <img src="https://img.shields.io/badge/TELEGRAM-@gitwx-21262d?style=for-the-badge&logo=telegram&logoColor=c9d1d9&labelColor=0d1117" alt="Telegram" />
   </a>
 </div>
 
 <br/>
 
-<!-- MINIMALIST FOOTER -->
+<!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=2&section=footer" width="100%" />
   <br/>
-  <sub><code>[ EOF // FLUFFIKCODE_SYSTEMS // MEM_ADDR: 0x0D1117 ]</code></sub>
+  <sub><code>FLUFFIKCODE // 0x0D1117</code></sub>
 </div>
