@@ -1,67 +1,72 @@
 <div align="center">
 
-<!-- HEADER IMAGE / BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=SYSTEM%20ARCHITECT%20//%20SECOPS&fontSize=24&fontColor=ffffff&fontAlignY=50&desc=LOW-LEVEL%20ENGINEERING%20%26%20MODERN%20WEB&descSize=12&descAlignY=75&descColor=666666" width="100%" />
+<!-- 3D MONOCHROME RENDER: FLUFFIKCODE (NATIVE GITHUB BLOCK) -->
+<pre>
+███████╗██╗     ██╗   ██╗███████╗███████╗██╗██╗  ██╗ ██████╗ ██████╗ ██████╗ ███████╗
+██╔════╝██║     ██║   ██║██╔════╝██╔════╝██║██║ ██╔╝██╔════╝██╔═══██╗██╔══██╗██╔════╝
+█████╗  ██║     ██║   ██║█████╗  █████╗  ██║█████╔╝ ██║     ██║   ██║██║  ██║█████╗  
+██╔══╝  ██║     ██║   ██║██╔══╝  ██╔══╝  ██║██╔═██╗ ██║     ██║   ██║██║  ██║██╔══╝  
+██║     ███████╗╚██████╔╝██║     ██║     ██║██║  ██╗╚██████╗╚██████╔╝██████╔╝███████╗
+╚═╝     ╚══════╝ ╚═════╝ ╚═╝     ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
+</pre>
 
-<br/>
-
-<!-- TYPING SVG -->
+<!-- SUBTITLE / TYPING SVG IN GITHUB MUTED COLOR (#8b949e) -->
 <a href="https://larp.saturnix.fun/index.php?u=fluffik56X">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=14&duration=4000&pause=1000&color=888888&center=true&vCenter=true&repeat=true&width=600&height=30&lines=MEMORY+SAFETY+%2F%2F+ZERO-COST+ABSTRACTIONS;OFFENSIVE+%26+DEFENSIVE+SECURITY;HIGH-PERFORMANCE+WEB+ARCHITECTURE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=650&height=25&lines=SYSTEM+ARCHITECT+%2F%2F+CYBERSECURITY+ENGINEER;RUST+%26+C%2B%2B+LOW-LEVEL+DEVELOPMENT;MODERN+HIGH-LOAD+WEB+SYSTEMS" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
 
-<!-- BENTO GRID LAYOUT -->
+<!-- NATIVE GITHUB BENTO GRID -->
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><code>01 // PROFILE</code></h3>
+      <h3><code>01 // SPECIFICATION</code></h3>
       <p align="justify">
-        Software Engineer focused on systems programming, cybersecurity, and resilient web architectures. Building secure, high-performance applications from the kernel level up to modern client interfaces.
+        Software Engineer specializing in systems programming, offensive/defensive cybersecurity, and resilient web architectures. Designing secure, zero-overhead software from memory management to modern client interfaces.
       </p>
       <p>
-        <code>> STATUS:</code> Operational<br/>
-        <code>> FOCUS:</code> Rust, C++, AppSec, Distributed Systems
+        <code>> STATUS:</code> <kbd>Operational</kbd><br/><br/>
+        <code>> VECTOR:</code> <kbd>Rust</kbd> <kbd>C++</kbd> <kbd>SecOps</kbd> <kbd>Web</kbd>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><code>02 // FEATURED_SYSTEM</code></h3>
+      <h3><code>02 // CORE_PROJECT</code></h3>
       <p>
-        <b>LIST MESSENGER</b> — A modern, minimalist communication platform engineered for speed and privacy.
+        <b>LIST MESSENGER</b> — A modern, minimalist communication platform engineered for speed, security, and clean aesthetics.
       </p>
       <p>
-        <code>> DOMAIN:</code> <a href="https://larp.saturnix.fun">larp.saturnix.fun</a><br/>
-        <code>> ROLE:</code> Lead Architect & Developer
+        <code>> ENDPOINT:</code> <a href="https://larp.saturnix.fun">larp.saturnix.fun</a><br/>
+        <code>> POSITION:</code> <kbd>Lead Architect</kbd>
       </p>
       <div align="left">
         <a href="https://larp.saturnix.fun">
-          <img src="https://img.shields.io/badge/LAUNCH_SYSTEM-000000?style=for-the-badge&logoColor=white" alt="Launch List" />
+          <img src="https://img.shields.io/badge/INITIALIZE-LIST_SYSTEM-21262d?style=for-the-badge&labelColor=0d1117&logoColor=c9d1d9" alt="Launch List" />
         </a>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><code>03 // CORE_STACK</code></h3>
-      <p>Primary languages, frameworks, and security domains.</p>
+      <h3><code>03 // TECH_STACK</code></h3>
+      <p>Primary languages, low-level tools, and security domains.</p>
       <div align="left">
-        <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/CYBERSECURITY-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-        <img src="https://img.shields.io/badge/MODERN_WEB-000000?style=for-the-badge&logo=pwa&logoColor=white" />
-        <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" />
+        <img src="https://img.shields.io/badge/RUST-21262d?style=for-the-badge&logo=rust&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/C++-21262d?style=for-the-badge&logo=cplusplus&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/SECURITY-21262d?style=for-the-badge&logo=kalilinux&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/WEB_ARCH-21262d?style=for-the-badge&logo=pwa&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/LINUX-21262d?style=for-the-badge&logo=linux&logoColor=c9d1d9" />
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3><code>04 // ENVIRONMENT</code></h3>
-      <p>Daily drivers and development workflow tools.</p>
+      <h3><code>04 // WORKSPACE</code></h3>
+      <p>Daily drivers and development environment.</p>
       <div align="left">
-        <img src="https://img.shields.io/badge/ZED_EDITOR-000000?style=for-the-badge&logo=zedindustries&logoColor=white" />
-        <img src="https://img.shields.io/badge/INTELLIJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-        <img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+        <img src="https://img.shields.io/badge/ZED-21262d?style=for-the-badge&logo=zedindustries&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/INTELLIJ_IDEA-21262d?style=for-the-badge&logo=intellijidea&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/VS_CODE-21262d?style=for-the-badge&logo=visualstudiocode&logoColor=c9d1d9" />
       </div>
     </td>
   </tr>
@@ -69,23 +74,25 @@
 
 <br/>
 
-<!-- CONNECTIONS / SOCIALS -->
+<!-- CONNECTIONS / TWO-TONE GITHUB BADGES -->
 <div align="center">
-  <h3><code>05 // TRANSMISSION</code></h3>
+  <h3><code>05 // DIRECT_LINKS</code></h3>
   <p>Encrypted and direct communication channels.</p>
   
   <a href="https://larp.saturnix.fun/index.php?u=fluffik56X">
-    <img src="https://img.shields.io/badge/LIST_NETWORK-fluffik56X-000000?style=for-the-badge&labelColor=111111&color=000000" alt="List Profile" />
+    <img src="https://img.shields.io/badge/LIST_ID-fluffik56X-21262d?style=for-the-badge&labelColor=0d1117&logoColor=c9d1d9" alt="List Profile" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/gitwx">
-    <img src="https://img.shields.io/badge/TELEGRAM-@gitwx-000000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=111111&color=000000" alt="Telegram" />
+    <img src="https://img.shields.io/badge/TELEGRAM-@gitwx-21262d?style=for-the-badge&logo=telegram&logoColor=c9d1d9&labelColor=0d1117" alt="Telegram" />
   </a>
 </div>
 
-<br/><br/>
+<br/>
 
 <!-- FOOTER -->
 <div align="center">
-  <sub><code>EOF // 0x000000</code></sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=2&section=footer" width="100%" />
+  <br/>
+  <sub><code>FLUFFIKCODE // 0x0D1117</code></sub>
 </div>
