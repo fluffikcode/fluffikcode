@@ -1,76 +1,129 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="fluffik56X" width="100%" />
+<img src="./assets/banner.svg" alt="fluffik56X — cybersecurity and software engineering" width="100%" />
 
-# FLUFFIK56X
+<br />
 
-**Cybersecurity · Software Engineering · Rust & C++ · Web**
+<a href="https://larp.saturnix.fun/index.php?u=fluffik56X">
+  <img src="https://img.shields.io/badge/LIST-larp.saturnix.fun-000000?style=for-the-badge&labelColor=000000&color=111111" alt="List" />
+</a>
+&nbsp;
+<a href="https://t.me/gitwx">
+  <img src="https://img.shields.io/badge/TELEGRAM-%40gitwx-000000?style=for-the-badge&labelColor=000000&color=111111" alt="Telegram" />
+</a>
 
 </div>
 
 <br />
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  IDENTITY                                                    │
+└──────────────────────────────────────────────────────────────┘
+```
+
+### Cybersecurity engineer · Software engineer
+
+Работаю на стыке **кибербезопасности**, системной разработки и современных веб-продуктов.  
+Пишу на **Rust** и **C++**, проектирую надёжные системы и создаю веб-сервисы с фокусом на архитектуру, безопасность и пользовательский опыт.
+
+> Создатель **List** — современного веб-мессенджера.  
+> <https://larp.saturnix.fun/index.php?u=fluffik56X>
+
+<br />
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  OPERATING FIELD                                             │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Security
+
+- Безопасная разработка и анализ программных систем  
+- Безопасность веб-приложений  
+- Архитектура с учётом угроз и границ доверия  
+- Инженерный подход к надёжности и устойчивости  
+
+  </td>
+  <td width="50%" valign="top">
+
+### Engineering
+
+- **Rust** — производительные и безопасные системы  
+- **C++** — системный уровень и производительность  
+- Backend, архитектура сервисов  
+- Современные веб-приложения и продукты  
+
+  </td>
+</tr>
+</table>
+
+<br />
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  TOOLCHAIN                                                   │
+└──────────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 
-[**List**](https://larp.saturnix.fun/index.php?u=fluffik56X) · [**Telegram**](https://t.me/gitwx)
+| Languages | Environments | Direction |
+|:---:|:---:|:---:|
+| `Rust` `C++` | `Zed` `VS Code` `IntelliJ IDEA` | `Security` `Systems` `Web` |
 
 </div>
 
 <br />
 
-## Profile
-
-Software engineer focused on systems, security and modern web products.
-
-I work with **Rust** and **C++**, build secure and reliable software, and develop web applications with attention to architecture, performance and user experience.
-
-Currently building **List** — a modern messenger:  
-<https://larp.saturnix.fun/index.php?u=fluffik56X>
-
-<br />
-
-## Focus
-
-| Direction | Details |
-|---|---|
-| Cybersecurity | Security-oriented thinking, secure development practices, analysis of systems and software |
-| Software Engineering | Rust, C++, systems programming, backend architecture |
-| Web Development | Modern web applications, interfaces and product-oriented services |
-| Product | Design and development of independent web products, including List |
-
-<br />
-
-## Stack
-
-<div align="center">
-
-**Rust** · **C++** · **Web** · **Security**
-
-**Zed** · **VS Code** · **IntelliJ IDEA**
-
-</div>
-
-<br />
-
-## Selected Work
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  PROJECT — LIST                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ### List
 
-A modern messenger built as a web product.
+Современный мессенджер, разработанный как самостоятельный веб-продукт.
 
-- Live product: <https://larp.saturnix.fun/index.php?u=fluffik56X>
-- Focus: modern interface, communication, practical web engineering
+| Параметр | Описание |
+|---|---|
+| Тип | Веб-мессенджер |
+| Ссылка | [larp.saturnix.fun](https://larp.saturnix.fun/index.php?u=fluffik56X) |
+| Фокус | Современный интерфейс, коммуникация, практичная веб-разработка |
+| Роль | Идея, разработка, продукт |
+
+<details>
+<summary><b>Подход к разработке</b></summary>
 
 <br />
 
-## Contacts
+- Сначала понятная архитектура, затем интерфейс  
+- Безопасность рассматривается как часть продукта, а не отдельная функция  
+- Код должен быть читаемым, предсказуемым и поддерживаемым  
+- Интерфейс должен быть быстрым, ясным и без визуального шума  
+
+</details>
+
+<br />
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  CONTACT                                                     │
+└──────────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 
-| Channel | Link |
-|---|---|
-| List | [larp.saturnix.fun](https://larp.saturnix.fun/index.php?u=fluffik56X) |
-| Telegram | [@gitwx](https://t.me/gitwx) |
+| Channel | Endpoint |
+|:---:|:---:|
+| **List** | [`larp.saturnix.fun`](https://larp.saturnix.fun/index.php?u=fluffik56X) |
+| **Telegram** | [`@gitwx`](https://t.me/gitwx) |
 
 </div>
 
@@ -78,6 +131,10 @@ A modern messenger built as a web product.
 
 <div align="center">
 
-<sub>Built with restraint. Designed for focus.</sub>
+```text
+──────────────────────────────────────────────────────────────
+ SYSTEMS · SECURITY · RUST · C++ · WEB
+──────────────────────────────────────────────────────────────
+```
 
 </div>
