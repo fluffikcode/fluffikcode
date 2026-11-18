@@ -43,7 +43,7 @@
       </p>
       <div align="left">
         <a href="https://larp.saturnix.fun">
-          <img src="https://img.shields.io/badge/INITIALIZE-LIST_SYSTEM-21262d?style=for-the-badge&labelColor=0d1117&logoColor=c9d1d9" alt="Launch List" />
+          <img src="https://img.shields.io/badge/INITIALIZE-LIST_SYSTEM-000000?style=for-the-badge&labelColor=000000&logoColor=c9d1d9" alt="Launch List" />
         </a>
       </div>
     </td>
@@ -53,20 +53,20 @@
       <h3><code>03 // TECH_STACK</code></h3>
       <p>Primary languages, low-level tools, and security domains.</p>
       <div align="left">
-        <img src="https://img.shields.io/badge/RUST-21262d?style=for-the-badge&logo=rust&logoColor=c9d1d9" />
-        <img src="https://img.shields.io/badge/C++-21262d?style=for-the-badge&logo=cplusplus&logoColor=c9d1d9" />
-        <img src="https://img.shields.io/badge/SECURITY-21262d?style=for-the-badge&logo=kalilinux&logoColor=c9d1d9" />
-        <img src="https://img.shields.io/badge/WEB_ARCH-21262d?style=for-the-badge&logo=pwa&logoColor=c9d1d9" />
-        <img src="https://img.shields.io/badge/LINUX-21262d?style=for-the-badge&logo=linux&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/SECURITY-000000?style=for-the-badge&logo=kalilinux&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/WEB_ARCH-000000?style=for-the-badge&logo=pwa&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=c9d1d9" />
       </div>
     </td>
     <td width="50%" valign="top">
       <h3><code>04 // WORKSPACE</code></h3>
       <p>Daily drivers and development environment.</p>
       <div align="left">
-        <img src="https://img.shields.io/badge/ZED-21262d?style=for-the-badge&logo=zedindustries&logoColor=c9d1d9" />
-        <img src="https://img.shields.io/badge/INTELLIJ_IDEA-21262d?style=for-the-badge&logo=intellijidea&logoColor=c9d1d9" />
-        <img src="https://img.shields.io/badge/VS_CODE-21262d?style=for-the-badge&logo=visualstudiocode&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/ZED-000000?style=for-the-badge&logo=zedindustries&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/INTELLIJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=c9d1d9" />
+        <img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=c9d1d9" />
       </div>
     </td>
   </tr>
@@ -80,11 +80,11 @@
   <p>Encrypted and direct communication channels.</p>
 
   <a href="https://larp.saturnix.fun/index.php?u=fluffik56X">
-    <img src="https://img.shields.io/badge/LIST_ID-fluffik56X-21262d?style=for-the-badge&labelColor=0d1117&logoColor=c9d1d9" alt="List Profile" />
+    <img src="https://img.shields.io/badge/LIST_ID-fluffik56X-000000?style=for-the-badge&labelColor=000000&logoColor=c9d1d9" alt="List Profile" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/gitwx">
-    <img src="https://img.shields.io/badge/TELEGRAM-@gitwx-21262d?style=for-the-badge&logo=telegram&logoColor=c9d1d9&labelColor=0d1117" alt="Telegram" />
+    <img src="https://img.shields.io/badge/TELEGRAM-@gitwx-000000?style=for-the-badge&logo=telegram&logoColor=c9d1d9&labelColor=000000" alt="Telegram" />
   </a>
 </div>
 
@@ -92,7 +92,7 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=2&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%" />
   <br/>
-  <sub><code>FLUFFIKCODE // 0x0D1117</code></sub>
+  <sub><code>FLUFFIKCODE // 0x000000</code></sub>
 </div>
