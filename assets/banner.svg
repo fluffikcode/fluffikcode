@@ -1,54 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
-  <rect width="1400" height="420" fill="#050505"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Antic+Didone&amp;display=swap');
+      text { font-family: 'Antic Didone', Georgia, serif; fill: #c9d1d9; }
+      .muted { fill: #8b949e; }
+      .accent { fill: #e6edf3; }
+      .mono { font-family: 'JetBrains Mono', monospace; }
+    </style>
+  </defs>
 
-  <rect x="36" y="36" width="1328" height="348" fill="#0a0a0a" stroke="#222222" stroke-width="1"/>
+  <rect width="1200" height="900" fill="#0d1117"/>
+  <rect x="40" y="40" width="1120" height="820" rx="18" fill="#161b22" stroke="#30363d"/>
 
-  <line x1="36" y1="104" x2="1364" y2="104" stroke="#1d1d1d" stroke-width="1"/>
-  <line x1="36" y1="316" x2="1364" y2="316" stroke="#1d1d1d" stroke-width="1"/>
+  <text x="600" y="130" text-anchor="middle" font-size="34" class="mono" fill="#c9d1d9">███████╗██╗     ██╗   ██╗███████╗███████╗██╗██╗  ██╗ ██████╗ ██████╗ ██████╗ ███████╗</text>
+  <text x="600" y="165" text-anchor="middle" font-size="34" class="mono" fill="#c9d1d9">██╔════╝██║     ██║   ██║██╔════╝██╔════╝██║██║ ██╔╝██╔════╝██╔═══██╗██╔══██╗██╔════╝</text>
+  <text x="600" y="200" text-anchor="middle" font-size="34" class="mono" fill="#c9d1d9">█████╗  ██║     ██║   ██║█████╗  █████╗  ██║█████╔╝ ██║     ██║   ██║██║  ██║█████╗  </text>
+  <text x="600" y="235" text-anchor="middle" font-size="34" class="mono" fill="#c9d1d9">██╔══╝  ██║     ██║   ██║██╔══╝  ██╔══╝  ██║██╔═██╗ ██║     ██║   ██║██║  ██║██╔══╝  </text>
+  <text x="600" y="270" text-anchor="middle" font-size="34" class="mono" fill="#c9d1d9">██║     ███████╗╚██████╔╝██║     ██║     ██║██║  ██╗╚██████╗╚██████╔╝██████╔╝███████╗</text>
+  <text x="600" y="305" text-anchor="middle" font-size="34" class="mono" fill="#c9d1d9">╚═╝     ╚══════╝ ╚═════╝ ╚═╝     ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝</text>
 
-  <line x1="700" y1="104" x2="700" y2="316" stroke="#1d1d1d" stroke-width="1"/>
+  <text x="600" y="365" text-anchor="middle" font-size="22" class="muted">SYSTEM ARCHITECT // CYBERSECURITY ENGINEER</text>
+  <text x="600" y="395" text-anchor="middle" font-size="22" class="muted">RUST &amp; C++ LOW-LEVEL DEVELOPMENT</text>
+  <text x="600" y="425" text-anchor="middle" font-size="22" class="muted">MODERN HIGH-LOAD WEB SYSTEMS</text>
 
-  <text x="68" y="82" fill="#6a6a6a" font-family="monospace" font-size="18" letter-spacing="6">
-    ACCESS / PROFILE
-  </text>
+  <text x="90" y="500" font-size="26" class="accent">01 // SPECIFICATION</text>
+  <text x="90" y="535" font-size="19" class="muted">Software Engineer specializing in systems programming,</text>
+  <text x="90" y="562" font-size="19" class="muted">offensive/defensive cybersecurity, and resilient web architectures.</text>
+  <text x="90" y="589" font-size="19" class="muted">Designing secure, zero-overhead software from memory management</text>
+  <text x="90" y="616" font-size="19" class="muted">to modern client interfaces.</text>
 
-  <text x="1332" y="82" fill="#6a6a6a" font-family="monospace" font-size="18" text-anchor="end" letter-spacing="6">
-    SECURE / ENGINEERED
-  </text>
+  <text x="90" y="660" font-size="19" class="accent">STATUS: Operational</text>
+  <text x="90" y="690" font-size="19" class="accent">VECTOR: Rust · C++ · SecOps · Web</text>
 
-  <text x="68" y="188" fill="#ededed" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" letter-spacing="3">
-    FLUFFIK56X
-  </text>
+  <text x="640" y="500" font-size="26" class="accent">02 // CORE_PROJECT</text>
+  <text x="640" y="535" font-size="21" class="accent">LIST MESSENGER</text>
+  <text x="640" y="565" font-size="19" class="muted">A modern, minimalist communication platform engineered</text>
+  <text x="640" y="592" font-size="19" class="muted">for speed, security, and clean aesthetics.</text>
 
-  <text x="68" y="234" fill="#8a8a8a" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="2">
-    Cybersecurity · Software Engineering · Rust · C++ · Web
-  </text>
+  <text x="640" y="635" font-size="19" class="accent">ENDPOINT: larp.saturnix.fun</text>
+  <text x="640" y="665" font-size="19" class="accent">POSITION: Lead Architect</text>
 
-  <text x="68" y="286" fill="#5f5f5f" font-family="monospace" font-size="18" letter-spacing="3">
-    BUILDER OF LIST — MODERN WEB MESSENGER
-  </text>
+  <text x="90" y="735" font-size="26" class="accent">03 // TECH_STACK</text>
+  <text x="90" y="770" font-size="20" class="muted">Rust · C++ · Security · Web Architecture · Linux</text>
 
-  <text x="748" y="170" fill="#9a9a9a" font-family="monospace" font-size="19" letter-spacing="2">
-    &gt; primary_stack
-  </text>
+  <text x="640" y="735" font-size="26" class="accent">04 // WORKSPACE</text>
+  <text x="640" y="770" font-size="20" class="muted">Zed · IntelliJ IDEA · VS Code</text>
 
-  <text x="748" y="208" fill="#dcdcdc" font-family="monospace" font-size="22">
-    Rust / C++
-  </text>
-
-  <text x="748" y="248" fill="#9a9a9a" font-family="monospace" font-size="19" letter-spacing="2">
-    &gt; environments
-  </text>
-
-  <text x="748" y="286" fill="#dcdcdc" font-family="monospace" font-size="22">
-    Zed / VS Code / IntelliJ IDEA
-  </text>
-
-  <text x="68" y="362" fill="#4f4f4f" font-family="monospace" font-size="17" letter-spacing="4">
-    LIST — LARP.SATURNIX.FUN
-  </text>
-
-  <text x="1332" y="362" fill="#4f4f4f" font-family="monospace" font-size="17" text-anchor="end" letter-spacing="4">
-    TELEGRAM — @GITWX
-  </text>
+  <text x="600" y="830" text-anchor="middle" font-size="18" class="muted">FLUFFIKCODE // 0x0D1117</text>
 </svg>
