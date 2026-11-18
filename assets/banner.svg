@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
+  <rect width="1400" height="420" fill="#050505"/>
+
+  <rect x="36" y="36" width="1328" height="348" fill="#0a0a0a" stroke="#222222" stroke-width="1"/>
+
+  <line x1="36" y1="104" x2="1364" y2="104" stroke="#1d1d1d" stroke-width="1"/>
+  <line x1="36" y1="316" x2="1364" y2="316" stroke="#1d1d1d" stroke-width="1"/>
+
+  <line x1="700" y1="104" x2="700" y2="316" stroke="#1d1d1d" stroke-width="1"/>
+
+  <text x="68" y="82" fill="#6a6a6a" font-family="monospace" font-size="18" letter-spacing="6">
+    ACCESS / PROFILE
+  </text>
+
+  <text x="1332" y="82" fill="#6a6a6a" font-family="monospace" font-size="18" text-anchor="end" letter-spacing="6">
+    SECURE / ENGINEERED
+  </text>
+
+  <text x="68" y="188" fill="#ededed" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" letter-spacing="3">
+    FLUFFIK56X
+  </text>
+
+  <text x="68" y="234" fill="#8a8a8a" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="2">
+    Cybersecurity · Software Engineering · Rust · C++ · Web
+  </text>
+
+  <text x="68" y="286" fill="#5f5f5f" font-family="monospace" font-size="18" letter-spacing="3">
+    BUILDER OF LIST — MODERN WEB MESSENGER
+  </text>
+
+  <text x="748" y="170" fill="#9a9a9a" font-family="monospace" font-size="19" letter-spacing="2">
+    &gt; primary_stack
+  </text>
+
+  <text x="748" y="208" fill="#dcdcdc" font-family="monospace" font-size="22">
+    Rust / C++
+  </text>
+
+  <text x="748" y="248" fill="#9a9a9a" font-family="monospace" font-size="19" letter-spacing="2">
+    &gt; environments
+  </text>
+
+  <text x="748" y="286" fill="#dcdcdc" font-family="monospace" font-size="22">
+    Zed / VS Code / IntelliJ IDEA
+  </text>
+
+  <text x="68" y="362" fill="#4f4f4f" font-family="monospace" font-size="17" letter-spacing="4">
+    LIST — LARP.SATURNIX.FUN
+  </text>
+
+  <text x="1332" y="362" fill="#4f4f4f" font-family="monospace" font-size="17" text-anchor="end" letter-spacing="4">
+    TELEGRAM — @GITWX
+  </text>
+</svg>
