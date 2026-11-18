@@ -12,7 +12,7 @@
 
 <!-- SUBTITLE / TYPING SVG IN GITHUB MUTED COLOR (#8b949e) -->
 <a href="https://larp.saturnix.fun/index.php?u=fluffik56X">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=650&height=25&lines=SYSTEM+ARCHITECT+%2F%2F+CYBERSECURITY+ENGINEER;RUST+%26+C%2B%2B+LOW-LEVEL+DEVELOPMENT;MODERN+HIGH-LOAD+WEB+SYSTEMS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Didone&weight=400&size=13&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=650&height=25&lines=SYSTEM+ARCHITECT+%2F%2F+CYBERSECURITY+ENGINEER;RUST+%26+C%2B%2B+LOW-LEVEL+DEVELOPMENT;MODERN+HIGH-LOAD+WEB+SYSTEMS" alt="Typing SVG" />
 </a>
 
 </div>
