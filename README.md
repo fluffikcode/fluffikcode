@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- 3D MONOCHROME RENDER: FLUFFIKCODE ( NATIVE GITHUB BLOCK ) -->
+<!-- 3D MONOCHROME RENDER: FLUFFIKCODE (  NATIVE GITHUB BLOCK ) -->
 <pre>
 ███████╗██╗     ██╗   ██╗███████╗███████╗██╗██╗  ██╗ ██████╗ ██████╗ ██████╗ ███████╗
 ██╔════╝██║     ██║   ██║██╔════╝██╔════╝██║██║ ██╔╝██╔════╝██╔═══██╗██╔══██╗██╔════╝
